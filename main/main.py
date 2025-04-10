@@ -27,7 +27,7 @@ if menu == "Predicción":
     """)
 
     # Cargar Modelo
-    path = 'modelo_xgboost_cc.json'
+    path = './main/modelo_xgboost_cc.json'
     modelo = xgb.XGBClassifier()
     modelo.load_model(path)
 
