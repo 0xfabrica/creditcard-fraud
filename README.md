@@ -35,7 +35,7 @@ xgboost==1.7.5
 ## ⚙️ Instalación
 # Clonar repositorio
 ```bash
-git clone [https://github.com/tuusuario/credit-card-default-prediction.git](https://github.com/tuusuario/credit-card-default-prediction.git)
+git clone [https://github.com/0xfabrica/credit-card-default-prediction.git](https://github.com/tuusuario/credit-card-default-prediction.git)
 ```
 # Navegar al directorio
 ```bash
@@ -45,7 +45,7 @@ cd credit-card-default-prediction
 ```bash
 pip install -r requirements.txt
 ```
-##🚀 Uso
+# 🚀 Uso
 ```bash
 # Ejecutar aplicación
 streamlit run main.py
